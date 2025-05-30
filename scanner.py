@@ -6,6 +6,3 @@ elif osd.detection() == "Lin":
     pass
 else:
     print("Scanner is not built for your OS ")
-
-
-

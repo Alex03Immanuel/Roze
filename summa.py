@@ -67,3 +67,6 @@ if(scanner_type == 1):
 
     network_ip = transform_ip(target_ip)
     detect_network(network_ip)
+
+
+# sample comment 
