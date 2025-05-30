@@ -1,4 +1,4 @@
-# Detectiob of OS
+# Detection of OS
 
 import platform
 import os
@@ -70,6 +70,7 @@ def detection():
         
 # implement a dictionary {ip:os}
 #bye bye
+#bb
 
 
 
